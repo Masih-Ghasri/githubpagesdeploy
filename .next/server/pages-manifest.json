@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/Api/Signin": "pages/Api/Signin.js",
+  "/Email": "pages/Email.js",
+  "/Finance": "pages/Finance.js",
+  "/News": "pages/News.js",
+  "/Sport": "pages/Sport.js",
+  "/signin": "pages/signin.js",
+  "/_document": "pages/_document.js"
+}
